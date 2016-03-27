@@ -1,0 +1,19 @@
+{
+  "name": "Bday",
+  "version": "0.0.1",
+  "description": "Happy Birthday",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.7.1",
+    "gulp": "^3.8.11"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Анна Фадеева",
+  "devDependencies": {
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-minify-css": "^1.1.6",
+    "gulp-minify-html": "^1.0.3"
+  }
+}
