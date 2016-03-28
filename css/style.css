@@ -1,7 +1,7 @@
 html, 
 body {
 	width: 100%;
-	height: 100%;
+	height: auto;
 	background-color: #000;
 	
 }
@@ -14,8 +14,6 @@ body {
 	margin: 0 auto;
 	padding-top: 20px;
 	width: 960px;
-	background: -webkit-radial-gradient(circle, #013145, #000) no-repeat 0 0;
-	background: radial-gradient(circle , #013145, #000) no-repeat 0 0;
 }
 .balloons {
 	position: relative;
